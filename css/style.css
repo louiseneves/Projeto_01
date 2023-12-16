@@ -2,9 +2,14 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: "Open Sans";
 }
 html,body{
     height: 100%;
+}
+@font-face{
+    src: url('../fonts/OpenSans-Light.ttf');
+    font-family: "Open Sans";
 }
 .center{
     width: 1280px;
